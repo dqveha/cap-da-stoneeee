@@ -6,3 +6,4 @@
 * 10:12 -- Leaving this to understand how to make react be more than a SPA; https://stackoverflow.com/questions/32130937/does-react-js-require-app-to-be-a-single-page; https://www.techomoro.com/how-to-create-a-multi-page-website-with-react-in-5-minutes/
 * 10:32 -- https://www.youtube.com/watch?v=B0SxxHAImhc; Another tutorial with React + RoR
 * 11:37 -- Attempting to install Ruby within local machine
+* 13:10 -- Finished installing Ruby/RoR within local machine
