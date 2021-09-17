@@ -7,3 +7,4 @@
 * 10:32 -- https://www.youtube.com/watch?v=B0SxxHAImhc; Another tutorial with React + RoR
 * 11:37 -- Attempting to install Ruby within local machine
 * 13:10 -- Finished installing Ruby/RoR within local machine
+* 13:52 -- Looking into using an API for chat function/message system with Twilio
